@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include "testfile.h"
+
 int main()
 {
   printf("Hello World");
